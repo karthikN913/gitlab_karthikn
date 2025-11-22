@@ -1,1 +1,2 @@
-this is a example repository for gitlab
+this is a example repository for gitlab.
+this is a new message in this repository.
